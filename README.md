@@ -1,3 +1,5 @@
+// read docs and course
+
 # Curso TypeScript - Zero to Hero
 
 <p align="center">
